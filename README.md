@@ -5,7 +5,7 @@
 <p>✅ USA 🇺🇸<br>
 ✅ EUROPE 🇪🇺</p>
 
-🔰 Genarate UUID via this Website : https://www.uuidgenerator.net/
+🔰 Genarate UUID via this Website : https://www.uuidtools.com/v4
 
 # Deploy to Heroku
 

@@ -5,7 +5,7 @@
     "keywords": ["xray"],
     "env": {
         "UUID": {
-            "description": "Enter Your UUID or Get New ID via this website -> (https://www.uuidgenerator.net/) ",
+            "description": "Enter Your UUID or Get New ID via this website -> (https://www.uuidtools.com/v4) ",
             "required": true        
         }
     },
